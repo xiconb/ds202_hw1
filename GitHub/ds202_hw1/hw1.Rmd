@@ -1,0 +1,23 @@
+---
+title: "hw1"
+author: "Brandon Xicon;xiconb"
+date: "1/15/2020"
+output: html_document
+---
+```{r setup,include=FALSE}
+knitr::opts_chunk$set(echo= TRUE)
+```
+## R Markdown
+What job is related to data scientist?
+          **Data Architects**
+
+  Data architects take in a large amount of data from financial records to marketing information in order to allow the data to be easily used or to create solutions that the user may need to access data and make sure that the data is stored in a measure that is safe and prevents cyber attacks. Data architects on average make 80,000 a year according to *salary.com* (<https://www.salary.com/research/salary/benchmark/data-architect-i-salary>) Data Architects are still evolving in the job field as we are creating more and more data that must be obtained by the user and against a hacker. 
+
+![](images/dataa.jpg)
+
+
+
+```{r version}
+version
+
+```
