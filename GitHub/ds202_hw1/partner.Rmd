@@ -1,0 +1,11 @@
+Partner Name: Brandan Xicon
+
+Most Recent Commit Information Via git log:
+
+commit 8e8505c534949ea3317ea9f884aa774c80db0b2d (HEAD -> master, origin/master, origin/HEAD)
+Author: xiconb <59895305+xiconb@users.noreply.github.com>
+Date:   Wed Jan 22 12:34:17 2020 -0600
+
+    Delete desktop.ini
+    
+I did not have any trouble knitting the owners hw1
